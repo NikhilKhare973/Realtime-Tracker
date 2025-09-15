@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=JmpDGMgRFfo
+
+npm i express ejs socket.io 
+
+run:- npx nodemon app.js
+
+allow to your location
+
+http://localhost:3000/

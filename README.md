@@ -1,9 +1,9 @@
 # Real-Time Location Tracking
 
 
-<img src="./public/screenshot/1.png"/>
-<img src="./public/screenshot/2.png"/>
-<img src="./public/screenshot/3.png"/>
+<img src="./screenshot/1.png"/>
+<img src="./screenshot/2.png"/>
+<img src="./screenshot/3.png"/>
 
 
 
@@ -54,6 +54,6 @@ Welcome to the **Real-Time Location Tracking** project! This web application is 
 You can view a live demo of the project [here](https://realtime-location-trackernp.onrender.com/). *(Please note that it may take a few seconds for the server to wake up.)*
 
 
-<img src="./public/screenshot/4.png"/>
-<img src="./public/screenshot/5.png"/>
-<img src="./public/screenshot/6.png"/>
+<img src="./screenshot/4.png"/>
+<img src="./screenshot/5.png"/>
+<img src="./screenshot/6.png"/>
